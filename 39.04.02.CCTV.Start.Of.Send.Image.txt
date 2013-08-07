@@ -1,0 +1,12 @@
+#hand typing the following text using CCTV Server Simulator
+#3- Train RISTV server
+
+3
+308
+01
+A501
+1
+1
+3
+
+

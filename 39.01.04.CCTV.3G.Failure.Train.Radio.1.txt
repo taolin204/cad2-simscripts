@@ -1,0 +1,15 @@
+#hand typing the following text using CCTV Server Simulator
+#2- stands for RSTV Mgmt Server
+
+2
+305
+01
+A501
+
+
+305
+01
+A501
+305
+01
+A502

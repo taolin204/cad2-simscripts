@@ -1,0 +1,17 @@
+#hand typing the following text using CCTV Server Simulator
+#3- Train RISTV server
+
+ai
+cctv.jpg
+01
+A501
+1
+1
+
+
+ai
+cctv_10.jpg
+01
+A501
+1
+1

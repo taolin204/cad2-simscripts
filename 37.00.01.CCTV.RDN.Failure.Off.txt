@@ -1,0 +1,11 @@
+#Copy the folowing text to the CCTV Sim Server
+#1 - stands for PAP/SIP Server
+
+1
+304
+01
+A501
+304
+01
+A502
+e

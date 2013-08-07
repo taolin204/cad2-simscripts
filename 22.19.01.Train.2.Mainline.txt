@@ -1,0 +1,19 @@
+#copy the following inputs to the ATSS simulator console.
+
+#Option: set train info
+#Index of train to edit (1 -10)
+#Train ID
+#Train Desc
+#Input Direction (0-2)
+#Input Track ID (0-255): refer to the track/chaiange
+#Input Chaiange (0-65535): refer to the track/chaiange map values
+#Input Div Alarm (true | false):
+
+4
+2
+02
+A102
+2
+2
+9920
+false

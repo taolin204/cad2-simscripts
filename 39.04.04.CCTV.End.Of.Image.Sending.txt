@@ -1,0 +1,12 @@
+#hand typing the following text using CCTV Server Simulator
+#3- Train RISTV server
+
+
+#step 6 : end of image
+3
+
+310
+01
+A501
+1
+1
